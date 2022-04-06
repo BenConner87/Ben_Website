@@ -1,23 +1,22 @@
 {
-    "name": "portfolio2",
-    "version": "1.0.0",
-    "description": "responsive portfolio website",
-    "main": "index.js",
-    "scripts": {
-      "sass": "node-sass -w scss/ -o dist/css/ --recursive" 
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/BenConner87/Portfolio2.git"
-    },
-    "author": "Ben Conner",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/BenConner87/Portfolio2/issues"
-    },
-    "homepage": "https://github.com/BenConner87/Portfolio2#readme",
-    "dependencies": {
-      "node-sass": "^7.0.1"
-    }
+  "name": "ben_website",
+  "version": "1.0.0",
+  "description": "responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenConner87/Ben_Website.git"
+  },
+  "author": "ben conner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenConner87/Ben_Website/issues"
+  },
+  "homepage": "https://github.com/BenConner87/Ben_Website#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
   }
-  
+}
